@@ -8,6 +8,11 @@
   - Ensure efficient and reliable local processing of LLMs.
   - Use AI for managing the codebase.
 
+## Directory Structure
+- **frontend/**: Contains the web interface for the project.
+- **backend/**: Contains the backend logic and API endpoints.
+- **ai/**: Contains the LLM processing and codebase management modules.
+
 ## Main Components
 1. **User Interface**
    - **Description**: A graphical or command-line interface for users to interact with the LLM.
