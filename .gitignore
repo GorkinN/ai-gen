@@ -1,1 +1,45 @@
-.aider*
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Temporary Files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE and Editor Specific Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and Configuration
+*.env
+config.py
+secrets.json
+
+# Documentation
+docs/_build/
+
+# Tests
+test-results/
+
+# Version Control
+.git/
+.gitignore
+.gitattributes
+
+# Other
+*.bak
+*.swp
+*.swo
