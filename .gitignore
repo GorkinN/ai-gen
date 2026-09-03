@@ -43,3 +43,10 @@ test-results/
 *.bak
 *.swp
 *.swo
+*_env
+
+*_cuda
+
+.aider*
+прочее
+*_output
