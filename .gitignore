@@ -48,5 +48,9 @@ test-results/
 *_cuda
 
 .aider*
-прочее
-*_output
+other
+music_output
+image_output
+controlnet_output
+sfx_output
+pixel_output
